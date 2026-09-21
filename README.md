@@ -1,5 +1,5 @@
 # Deep Learning-Based Intelligent Vehicle Surveillance System with Automatic Number Plate Recognition, 
-Multi-Object Tracking, and Automated Violation Notification
+An AI-powered vehicle surveillance and Automatic Number Plate Recognition (ANPR) system that detects and tracks vehicles, recognizes license plates using OCR, validates results across multiple frames, and supports database verification. The system aims to improve recognition reliability, reduce false alerts, and enable efficient vehicle monitoring through automated processing.
 
 
 # Features
