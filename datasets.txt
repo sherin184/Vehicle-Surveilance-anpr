@@ -1,0 +1,14 @@
+## Datasets
+
+The project uses publicly available datasets for vehicle and license plate
+detection/recognition experiments.
+
+- [Indian Vehicle License Plate Dataset – Kaggle](https://www.kaggle.com/dsv/3369458)
+- [Indian License Plates with Labels – Kaggle](https://www.kaggle.com/datasets/kedarsai/indian-license-plates-with-labels)
+- [Indian Number Plates Dataset – DataCluster](https://github.com/datacluster-labs/Indian-Number-Plates-Dataset)
+- [Indian License Plate Detection – Roboflow](https://universe.roboflow.com/atria-university/indian-license-plate-detection-6tmbr-ixo3p)
+- [UFPR-ALPR Dataset](https://web.inf.ufpr.br/vri/databases/ufpr-alpr/)
+- [CCPD License Plate Dataset](https://github.com/detectrecog/ccpd)
+
+> Datasets are not included in this repository. Please download them
+> directly from their respective sources and follow their licensing terms.
