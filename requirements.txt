@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+easyocr
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+tqdm
